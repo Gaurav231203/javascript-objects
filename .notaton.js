@@ -6,3 +6,4 @@ let object = {
 console.log(object.age);
 console.log(object.id);
 console.log(object.name);
+console.log(object)
