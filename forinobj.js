@@ -7,5 +7,5 @@ let obj={
 
 }
 for( let key in obj){
-    console.log(obj[key]);
+    console.log(key,obj[key]);
 };
