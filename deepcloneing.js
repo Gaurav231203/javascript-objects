@@ -17,5 +17,5 @@ let info ={
   //using JSON
 let obj2 =JSON.parse(JSON .stringify(info));
 obj2.address.city="rampur";
-
+console.log(info);
 console.log(obj2);
