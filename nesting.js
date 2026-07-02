@@ -11,4 +11,4 @@ let obj={
 
     },
 };
-console.log(obj.address.location.lat)
+console.log(obj.address.location)
