@@ -1,3 +1,4 @@
+// nesting means ek aky andr ek object ek kay andr ek ek  kay andr ek,
 let obj={
     name: "gaurav",
     address: {
