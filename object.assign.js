@@ -4,5 +4,5 @@ let object={
     pin:2300173,
 
 };
-let obj2 =Object.assign(object,{hola:"amigo"});
+let obj2 =Object.assign({baranch:"cse"},object,{hola:"amigo"});
 console.log(obj2);
